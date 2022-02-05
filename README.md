@@ -6,7 +6,8 @@ This repository was created for sharing the code of the group project.
     If you have any ideas for the project, please head to the [Ideas Folder](https://github.com/CTM-Procedural-Programing/GroupProject21-22/blob/main/IDEAS.txt) and create a commit with your idea or add on.
     Also under every Idea create a Voting section. Where people can vote for the idea and
 
-    ```
+ ```
+
     Idea No.x
     Blah Blah Idea Idea
 
@@ -14,4 +15,6 @@ This repository was created for sharing the code of the group project.
     Filip Zbořil
     Random guy named John who lives down the street
     etc...
-    ```
+    
+```
+
