@@ -1,0 +1,2 @@
+If you have any ideas for what to make just create a commit to this file where you explain your idea.
+
