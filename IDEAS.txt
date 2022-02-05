@@ -1,2 +1,8 @@
 If you have any ideas for what to make just create a commit to this file where you explain your idea.
 
+Idea No.1
+	The player is exploring a magical dungeon, with some hostile creatures(combat), traps,treasures and more.
+	Combat Style Rock Paper Scisors
+
+	by Filip Zbořil
+
