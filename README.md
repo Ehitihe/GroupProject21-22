@@ -6,6 +6,7 @@ This repository was created for sharing the code of the group project.
 If you have any ideas for the project, please head to the [Ideas Folder](https://github.com/CTM-Procedural-Programing/GroupProject21-22/blob/main/IDEAS.txt) and create a commit with your idea or add on.
 
 Also under every Idea create a Voting section. Where people can vote for the idea and
+
 For example:
  ```
 
@@ -18,4 +19,9 @@ For example:
     etc...
     
 ```
+
+## To do list and who does what you what
+After we decicde on the main idea we can create a to do list and from there we can just mark who is doing what.
+I would recommend using [trello](trello.com).
+I have already created a board on there [Here](https://trello.com/invite/b/Njh5bFA0/642315ef91bbe61f2d992de270b1014d/group-project-2021-22) is the link.
 
