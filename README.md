@@ -3,7 +3,7 @@ CTM Procedural Programing 2021/22
 
 This repository was created for sharing the code of the group project.
 ## Check
-If you made it here and them try to make a first commit to the [Check File]() with your name so we can check if everyone made it here. And that there is no problem with making a commit. 
+If you made it here and them try to make a first commit to the [Check File](https://github.com/CTM-Procedural-Programing/GroupProject21-22/blob/main/CHECK.txt) with your name so we can check if everyone made it here. And that there is no problem with making a commit. 
 
 
 ## Ideas
