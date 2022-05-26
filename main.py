@@ -187,12 +187,10 @@ def lookBehind():
         elif(doorOpt =="B" or doorOpt =="b"):
             door = "r"
             runs = False
-        elif(doorOpt =="C" or doorOpt =="c"):
+        else:
             print("Flipping a coin")
             door = coin()
             runs = False
-        else:
-            print("Invalid value. Try again.")
 
         if(door == "l"): # ENTERING THE DOOR
             ending = ["THE END."]
