@@ -144,7 +144,7 @@ def combat():
       print("It is a draw. The goblin does not understand this outcome. As he tries to use his brain to understand it, you slip by him.")
 
     break
-combat()
+
 
 
 # option 2 - look behind and find an aisle
@@ -238,4 +238,4 @@ def lookBehind():
                     ending = ["As you can see the old laughing man, when the game ended, you discover, that the treasure probably doesn't even exist", "Maybe there's a bigger probability finding some with a detector on the fields nearby.", "You're leaving the dusty room empty-handed.", "THE END."]
                     runs = False
     progress(1.4, ending)    
-lookBehind()
+
