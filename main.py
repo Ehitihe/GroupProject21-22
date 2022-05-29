@@ -1,7 +1,7 @@
 #this is where all of the code will be
 
 # option 1 - combat with a goblin
-def combat():
+def combat(): test
   import random
 
   print("You have chosen option 1 \n")
